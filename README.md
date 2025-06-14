@@ -19,6 +19,9 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=gnu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Masscan-7F00FF?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-1B1B1B?&style=for-the-badge&logo=gnu&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -31,7 +34,18 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 
 ### Defensive / Blue Teaming
 
+<div>
+<img src="https://img.shields.io/badge/-Burp%20Suite-F47F24?&style=for-the-badge&logo=protonmail&logoColor=white" />
+</div>
+
 ### Offensive Security / Red Team
+
+<div>
+<img src="https://img.shields.io/badge/-Metasploit-3F1F56?&style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hydra-333333?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-F47F24?&style=for-the-badge&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQLmap-800000?&style=for-the-badge&logo=database&logoColor=white" />
+</div>
 
 ## Certifications
 
