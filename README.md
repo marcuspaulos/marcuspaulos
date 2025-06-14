@@ -25,6 +25,14 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 
 ### SIEM
 
+### Identity & Access Management (IAM)
+
+### Threat & Vulnerability Management
+
+### Defensive / Blue Teaming
+
+### Offensive Security / Red Team
+
 ## Certifications
 
 <div>
