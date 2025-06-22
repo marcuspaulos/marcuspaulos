@@ -16,7 +16,7 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis and Attack Detection | <a href="https://medium.com/@marcuspaulo_34898/analyzing-network-traffic-with-tcpdump-and-wireshark-building-a-packet-capture-script-with-1365a4f90e54">Write-Up</a>|
 | Network & Active Directory Setup | <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-and-response-lab-from-active-directory-to-splunk-automation-part-1-b194b24fa8cb">Write-Up</a>|
-| Detection & SOAR Automation | <a href="">Write-Up (Coming soon)</a>|
+| Detection & SOAR Automation | <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-response-lab-part-2-installing-splunk-ingesting-logs-and-automating-fef37d5dfbe9">Write-Up</a>|
 
 ## Tools
 
@@ -63,5 +63,9 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 
 ## Projects
 - <a href="https://medium.com/@marcuspaulo_34898/analyzing-network-traffic-with-tcpdump-and-wireshark-building-a-packet-capture-script-with-1365a4f90e54">Analyzing Network Traffic with TCPDump and Wireshark: Building a Packet Capture Script with Decryption</a>
+
 - <a href="https://medium.com/@marcuspaulo_34898/installing-and-learning-to-use-wireshark-for-packet-capture-filtering-and-network-analysis-79ca7073175c">Installing and Learning to Use Wireshark for Packet Capture, Filtering, and Network Analysis</a>
+
 - <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-and-response-lab-from-active-directory-to-splunk-automation-part-1-b194b24fa8cb">Building a Detection and Response Lab: From Active Directory to Splunk Automation (Part 1)</a>
+
+- <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-response-lab-part-2-installing-splunk-ingesting-logs-and-automating-fef37d5dfbe9">Building a Detection & Response Lab (Part 2): Installing Splunk, Ingesting Logs, and Automating Alerts with Slack and Shuffle</a>
