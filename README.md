@@ -30,10 +30,15 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 </div>
 
 ### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=windows11&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh%20Agent-004455?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005877?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Identity & Access Management (IAM)
@@ -42,8 +47,14 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 </div>
 
 ### Threat & Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Nuclei-1E1E1E?&style=for-the-badge&logoColor=white" />
+</div>
 
-### Defensive / Blue Teaming
+### Incident Response & Case Management
+<div>
+<img src="https://img.shields.io/badge/-TheHive-FCDC00?&style=for-the-badge&logoColor=white" />
+</div>
 
 ### Offensive Security / Red Team
 
