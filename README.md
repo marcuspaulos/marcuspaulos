@@ -18,6 +18,7 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 | Network & Active Directory Setup | <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-and-response-lab-from-active-directory-to-splunk-automation-part-1-b194b24fa8cb">Write-Up</a>|
 | Detection & SOAR Automation | <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-response-lab-part-2-installing-splunk-ingesting-logs-and-automating-fef37d5dfbe9">Write-Up</a>|
 | Self-Hosted VPN Deployment (OpenVPN on Linux) | <a href="https://medium.com/@marcuspaulo_34898/creating-and-configuring-a-self-hosted-vpn-with-openvpn-quick-setup-b49915a3756c">Write-Up</a>|
+| Expanding My SOC Lab: Adding pfSense as Firewall, Routing Between 2 VPCs, and Integrating with Splunk | <a href="https://medium.com/@marcuspaulo_34898/expanding-my-soc-lab-adding-pfsense-as-firewall-routing-between-2-vpcs-and-integrating-with-015a2e15f7cd">Write-Up</a>|
 
 ## Tools
 
@@ -29,6 +30,7 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
     <img src="https://img.shields.io/badge/-Masscan-7F00FF?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Netcat-1B1B1B?&style=for-the-badge&logo=gnu&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?&style=for-the-badge&logo=openvpn&logoColor=white" />
+    <img src="https://img.shields.io/badge/pfSense-003366?style=for-the-badge" />
 </div>
 
 ### Endpoint
@@ -84,3 +86,5 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 - <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-response-lab-part-2-installing-splunk-ingesting-logs-and-automating-fef37d5dfbe9">Building a Detection & Response Lab (Part 2): Installing Splunk, Ingesting Logs, and Automating Alerts with Slack and Shuffle</a>
 
 - <a href="https://medium.com/@marcuspaulo_34898/creating-and-configuring-a-self-hosted-vpn-with-openvpn-quick-setup-b49915a3756c">Creating and Configuring a Self-Hosted VPN with OpenVPN (Quick Setup)</a>
+
+- <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-and-response-lab-from-active-directory-to-splunk-automation-part-1-b194b24fa8cb">Expanding My SOC Lab: Adding pfSense as Firewall, Routing Between 2 VPCs, and Integrating with Splunk</a>
