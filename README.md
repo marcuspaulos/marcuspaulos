@@ -72,6 +72,7 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 ## Certifications
 
 <div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-0057B8?style=for-the-badge&logo=compTIA&logoColor=white" alt="CompTIA Security+"/>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-DCPT%20Certified-268B8B?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
