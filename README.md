@@ -10,6 +10,15 @@ I am a Computer Science student with a growing focus on cybersecurity, particula
 
 My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern, where I can apply my skills, gain real-world experience, and grow within the field of cybersecurity.
 
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-0057B8?style=for-the-badge&logo=compTIA&logoColor=white" alt="CompTIA Security+"/>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-DCPT%20Certified-268B8B?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AZ-900"/>
+</div>
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -20,6 +29,21 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 | Self-Hosted VPN Deployment (OpenVPN on Linux) | <a href="https://medium.com/@marcuspaulo_34898/creating-and-configuring-a-self-hosted-vpn-with-openvpn-quick-setup-b49915a3756c">Write-Up</a>|
 | Firewall Management / Network Routing / SIEM Integration | <a href="https://medium.com/@marcuspaulo_34898/expanding-my-soc-lab-adding-pfsense-as-firewall-routing-between-2-vpcs-and-integrating-with-015a2e15f7cd">Write-Up</a>|
 | Hybrid Network Security / VPN Configuration (WireGuard) | <a href="https://medium.com/@marcuspaulo_34898/@marcuspaulo_34898/attacking-and-defending-attacks-building-a-hybrid-lab-with-local-and-cloud-machines-connected-via-803b4bfe0e31">Write-Up</a>|
+
+## Projects
+- <a href="https://medium.com/@marcuspaulo_34898/analyzing-network-traffic-with-tcpdump-and-wireshark-building-a-packet-capture-script-with-1365a4f90e54">Analyzing Network Traffic with TCPDump and Wireshark: Building a Packet Capture Script with Decryption</a>
+
+- <a href="https://medium.com/@marcuspaulo_34898/installing-and-learning-to-use-wireshark-for-packet-capture-filtering-and-network-analysis-79ca7073175c">Installing and Learning to Use Wireshark for Packet Capture, Filtering, and Network Analysis</a>
+
+- <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-and-response-lab-from-active-directory-to-splunk-automation-part-1-b194b24fa8cb">Building a Detection and Response Lab: From Active Directory to Splunk Automation (Part 1)</a>
+
+- <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-response-lab-part-2-installing-splunk-ingesting-logs-and-automating-fef37d5dfbe9">Building a Detection & Response Lab (Part 2): Installing Splunk, Ingesting Logs, and Automating Alerts with Slack and Shuffle</a>
+
+- <a href="https://medium.com/@marcuspaulo_34898/creating-and-configuring-a-self-hosted-vpn-with-openvpn-quick-setup-b49915a3756c">Creating and Configuring a Self-Hosted VPN with OpenVPN (Quick Setup)</a>
+
+- <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-and-response-lab-from-active-directory-to-splunk-automation-part-1-b194b24fa8cb">Expanding My SOC Lab: Adding pfSense as Firewall, Routing Between 2 VPCs, and Integrating with Splunk</a>
+
+- <a href="https://medium.com/@marcuspaulo_34898/attacking-and-defending-attacks-building-a-hybrid-lab-with-local-and-cloud-machines-connected-via-803b4bfe0e31">Attacking and Defending Attacks: Building a Hybrid Lab with Local and Cloud Machines Connected via WireGuard</a>
 
 ## Tools
 
@@ -43,8 +67,6 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-005877?&style=for-the-badge&logoColor=white" />
-</div>
 
 ### Identity & Access Management (IAM)
 <div>
@@ -69,26 +91,3 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst intern
 <img src="https://img.shields.io/badge/-Burp%20Suite-F47F24?&style=for-the-badge&logo=protonmail&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQLmap-800000?&style=for-the-badge&logo=database&logoColor=white" />
 </div>
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-0057B8?style=for-the-badge&logo=compTIA&logoColor=white" alt="CompTIA Security+"/>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-DCPT%20Certified-268B8B?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
-
-## Projects
-- <a href="https://medium.com/@marcuspaulo_34898/analyzing-network-traffic-with-tcpdump-and-wireshark-building-a-packet-capture-script-with-1365a4f90e54">Analyzing Network Traffic with TCPDump and Wireshark: Building a Packet Capture Script with Decryption</a>
-
-- <a href="https://medium.com/@marcuspaulo_34898/installing-and-learning-to-use-wireshark-for-packet-capture-filtering-and-network-analysis-79ca7073175c">Installing and Learning to Use Wireshark for Packet Capture, Filtering, and Network Analysis</a>
-
-- <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-and-response-lab-from-active-directory-to-splunk-automation-part-1-b194b24fa8cb">Building a Detection and Response Lab: From Active Directory to Splunk Automation (Part 1)</a>
-
-- <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-response-lab-part-2-installing-splunk-ingesting-logs-and-automating-fef37d5dfbe9">Building a Detection & Response Lab (Part 2): Installing Splunk, Ingesting Logs, and Automating Alerts with Slack and Shuffle</a>
-
-- <a href="https://medium.com/@marcuspaulo_34898/creating-and-configuring-a-self-hosted-vpn-with-openvpn-quick-setup-b49915a3756c">Creating and Configuring a Self-Hosted VPN with OpenVPN (Quick Setup)</a>
-
-- <a href="https://medium.com/@marcuspaulo_34898/building-a-detection-and-response-lab-from-active-directory-to-splunk-automation-part-1-b194b24fa8cb">Expanding My SOC Lab: Adding pfSense as Firewall, Routing Between 2 VPCs, and Integrating with Splunk</a>
-
-- <a href="https://medium.com/@marcuspaulo_34898/attacking-and-defending-attacks-building-a-hybrid-lab-with-local-and-cloud-machines-connected-via-803b4bfe0e31">Attacking and Defending Attacks: Building a Hybrid Lab with Local and Cloud Machines Connected via WireGuard</a>
